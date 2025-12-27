@@ -8,3 +8,4 @@ test('example test using POM', async ({ page }) => {
   await loginPage1.navigate();
   await loginPage1.login('testingprem6@gmail.com', 'Prem#1234');
 });
+// Note: The above code demonstrates the correct usage of default imports and class naming conventions in a Playwright test using the Page Object Model (POM) pattern.
